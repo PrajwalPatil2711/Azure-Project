@@ -1,0 +1,4 @@
+client secret : oxM8Q~~ywBXL_8SHnbPZvx8mgKXchWGI6rMmhbo3
+application id: 46ce0f86-470f-4aeb-8291-fcf5214a3297
+api key: a7d944a0-18bb-4407-9504-6f541ca19fb7
+airlines api: https://airlabs.co/api/v9/airlines?api_key=a7d944a0-18bb-4407-9504-6f541ca19fb7
